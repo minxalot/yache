@@ -169,9 +169,9 @@ EcruteakTinTowerEntranceSageText_GotFogBadge:
 
 	para "Ah!"
 
-	para "ECRUTEAK's GYM"
-	line "BADGE! Please, go"
-	cont "right through."
+	para "The FOGBADGE!"
+	line "Please, go right"
+	cont "through."
 	done
 
 EcruteakTinTowerEntranceSageText_NoClearBell:

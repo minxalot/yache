@@ -192,7 +192,7 @@ ClairText_GoToDragonsDen:
 
 	para "I know. You should"
 	line "take the dragon"
-	cont "user challenge."
+	cont "master challenge."
 
 	para "Behind this GYM is"
 	line "a place called"

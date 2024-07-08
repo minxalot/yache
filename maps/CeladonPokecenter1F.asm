@@ -109,7 +109,7 @@ EusineLeavesCeladonText:
 
 	para "rainbow-colored"
 	line "#MON appearing"
-	cont "at TIN TOWER."
+	cont "at the TIN TOWER."
 
 	para "I've just had my"
 	line "party healed, so"

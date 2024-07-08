@@ -22,7 +22,7 @@ AzaleaMartBugCatcherScript:
 
 AzaleaMartCooltrainerMText:
 	text "There's no GREAT"
-	line "BALL here. #"
+	line "BALLS here. #"
 
 	para "BALLS will have"
 	line "to do."

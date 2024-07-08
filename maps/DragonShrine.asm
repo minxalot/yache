@@ -286,7 +286,7 @@ DragonShrineQuestion2_MenuHeader:
 	db STATICMENU_CURSOR | STATICMENU_DISABLE_B ; flags
 	db 3 ; items
 	db "Strategy@"
-	db "Raising@"
+	db "Training@"
 	db "Cheating@"
 
 DragonShrineQuestion3_MenuHeader:
@@ -324,7 +324,7 @@ DragonShrineQuestion5_MenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR | STATICMENU_DISABLE_B ; flags
 	db 3 ; items
-	db "Tough@"
+	db "Strong@"
 	db "Both@"
 	db "Weak@"
 
@@ -634,8 +634,8 @@ DragonShrinePlayerReceivedRisingBadgeText:
 	done
 
 DragonShrineRisingBadgeExplanationText:
-	text "RISINGBADGE will"
-	line "enable your"
+	text "The RISINGBADGE"
+	line "will enable your"
 
 	para "#MON to use the"
 	line "move for climbing"

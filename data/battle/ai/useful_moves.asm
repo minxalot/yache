@@ -1,6 +1,7 @@
 ; AI_SMART knows these moves are usable all-around.
 
 UsefulMoves:
+	db BODY_SLAM
 	db DOUBLE_EDGE
 	db SING
 	db FLAMETHROWER
@@ -9,6 +10,7 @@ UsefulMoves:
 	db ICE_BEAM
 	db BLIZZARD
 	db HYPER_BEAM
+	db DRILL_PECK
 	db SLEEP_POWDER
 	db THUNDERBOLT
 	db THUNDER
@@ -18,6 +20,19 @@ UsefulMoves:
 	db HYPNOSIS
 	db RECOVER
 	db FIRE_BLAST
+	db WATERFALL
 	db SOFTBOILED
+	db HI_JUMP_KICK
+	db LOVELY_KISS
+	db SPORE
+	db ROCK_SLIDE
 	db SUPER_FANG
+	db AEROBLAST
+	db SLUDGE_BOMB
+	db GIGA_DRAIN
+	db MILK_DRINK
+	db SACRED_FIRE
+	db CROSS_CHOP
+	db EXTREMESPEED
+	db SHADOW_BALL
 	db -1 ; end

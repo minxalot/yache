@@ -86,7 +86,7 @@ CharcoalKilnBossText1:
 
 	para "It may be a bad"
 	line "omen. We should"
-	cont "stay in."
+	cont "stay inside."
 	done
 
 CharcoalKilnBossText2:

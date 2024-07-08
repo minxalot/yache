@@ -252,8 +252,8 @@ JanineText_ToughOne:
 	line "tough one. You"
 	cont "definitely won…"
 
-	para "Here's SOULBADGE."
-	line "Take it."
+	para "Here's the SOUL-"
+	line "BADGE. Take it."
 	done
 
 Text_ReceivedSoulBadge:
@@ -374,8 +374,8 @@ FuchsiaGymGuideText:
 
 FuchsiaGymGuideWinText:
 	text "That was a great"
-	line "battle, trainer"
-	cont "from JOHTO!"
+	line "battle, JOHTO"
+	cont "CHAMP!"
 	done
 
 FuchsiaGym_MapEvents:

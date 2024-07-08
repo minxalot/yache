@@ -239,7 +239,7 @@ BurnedTower1FEusineIntroText:
 	para "I heard rumors"
 	line "that SUICUNE is in"
 
-	para "this BURNED TOWER,"
+	para "the BURNED TOWER,"
 	line "so I came to look."
 
 	para "But where exactly"
@@ -250,7 +250,7 @@ BurnedTower1FEusineText:
 	text "EUSINE: I heard"
 	line "that SUICUNE is in"
 
-	para "this BURNED TOWER,"
+	para "the BURNED TOWER,"
 	line "so I came to look."
 
 	para "But where exactly"

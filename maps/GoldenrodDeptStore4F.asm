@@ -58,14 +58,23 @@ GoldenrodDeptStore4FGameboyKidText:
 	para "being traded via a"
 	line "Game Link cable."
 
-	para "I know of four:"
-	line "MACHOKE, KADABRA,"
+	; para "I know of four:"
+	; line "MACHOKE, KADABRA,"
 
-	para "HAUNTER and, um,"
-	line "GRAVELER."
+	; para "HAUNTER and, um,"
+	; line "GRAVELER."
 
-	para "I heard there are"
-	line "others too."
+	; para "I heard there are"
+	; line "others too."
+
+	para "I heard there's a"
+	line "man in ECRUTEAK"
+	
+	para "who will trade"
+	line "with you, if"
+	
+	para "you don't own"
+	line "one, though."
 	done
 
 GoldenrodDeptStore4FDirectoryText:

@@ -4,6 +4,7 @@
 	const ECRUTEAKPOKECENTER1F_COOLTRAINER_F
 	const ECRUTEAKPOKECENTER1F_GYM_GUIDE
 	const ECRUTEAKPOKECENTER1F_BILL
+	const ECRUTEAKPOKECENTER1F_TRADEBACKNPC
 
 EcruteakPokecenter1F_MapScripts:
 	def_scene_scripts
@@ -65,6 +66,14 @@ EcruteakPokecenter1FPokefanMScript:
 
 .mobile
 	jumptextfaceplayer EcruteakPokecenter1FPokefanMTextMobile
+
+TradebackNPCScript:
+	faceplayer
+	opentext
+	special TradebackNPC
+	waitbutton
+	closetext
+	end
 
 EcruteakPokecenter1FCooltrainerFScript:
 	jumptextfaceplayer EcruteakPokecenter1FCooltrainerFText
@@ -164,7 +173,7 @@ EcruteakPokecenter1FPokefanMText:
 	text "The way the KIMONO"
 	line "GIRLS dance is"
 
-	para "marvelous. Just"
+	para "marvelous--just"
 	line "like the way they"
 	cont "use their #MON."
 	done
@@ -222,3 +231,4 @@ EcruteakPokecenter1F_MapEvents:
 	object_event  1,  4, SPRITE_COOLTRAINER_F, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, EcruteakPokecenter1FCooltrainerFScript, -1
 	object_event  7,  1, SPRITE_GYM_GUIDE, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, EcruteakPokecenter1FGymGuideScript, -1
 	object_event  0,  7, SPRITE_BILL, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ObjectEvent, EVENT_ECRUTEAK_POKE_CENTER_BILL
+	object_event  2,  3, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, TradebackNPCScript, -1

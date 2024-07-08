@@ -316,8 +316,8 @@ AcademyBurnText:
 	text "A burn steadily"
 	line "consumes HP."
 
-	para "It also reduces"
-	line "attack power."
+	para "It also weakens"
+	line "physical attacks."
 
 	para "A burn lingers"
 	line "after battle."
@@ -356,8 +356,8 @@ AcademyNotebookText1:
 	line "# BALL, weaken"
 	cont "the target first."
 
-	para "A poisoned or"
-	line "burned #MON is"
+	para "A sleeping or"
+	line "frozen #MON is"
 	cont "easier to catch."
 
 	para "Keep reading?"

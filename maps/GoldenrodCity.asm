@@ -447,9 +447,9 @@ GoldenrodCitySignText:
 	done
 
 GoldenrodCityBikeShopSignText:
-	text "The World is a"
-	line "Cycle Path!"
-	cont "BIKE SHOP"
+	text "The World is"
+	line "Your Cycle Path!"
+	cont "MIRACLE CYCLE"
 	done
 
 GoldenrodCityGameCornerSignText:

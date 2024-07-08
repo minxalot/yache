@@ -151,8 +151,8 @@ BugsyText_INeverLose:
 	text "I'm BUGSY!"
 	line "I never lose when"
 
-	para "it comes to bug"
-	line "#MON."
+	para "it comes to bug-"
+	line "type #MON."
 
 	para "My research is"
 	line "going to make me"

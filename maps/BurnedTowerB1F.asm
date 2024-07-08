@@ -218,16 +218,17 @@ BurnedTowerB1FEusineText:
 	para "I heard that the"
 	line "legendary #MON"
 
-	para "of ECRUTEAK test"
-	line "chosen humans by"
+	para "of ECRUTEAK come"
+	line "to people only"
 
-	para "allowing them to"
-	line "get close."
+	para "when they"
+	line "recognize their"
+	cont "talents."
 
 	para "I'm going to track"
 	line "SUICUNE."
 
-	para "<PLAYER>, let's"
+	para "<PLAYER>, we'll"
 	line "meet again!"
 
 	para "Farewell!"

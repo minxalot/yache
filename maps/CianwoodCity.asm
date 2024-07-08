@@ -264,7 +264,7 @@ CianwoodCityLassText:
 	line "MON."
 	done
 
-CianwoodCityUnusedText:
+CianwoodCityUnusedText: ; unused
 	text "There are several"
 	line "islands between"
 	cont "here and OLIVINE."
@@ -321,10 +321,12 @@ EusineAfterText:
 	text "You're amazing,"
 	line "<PLAYER>!"
 
-	para "No wonder #MON"
-	line "gravitate to you."
+	para "I'm starting to"
+	line "understand why"
 
-	para "I get it now."
+	para "SUICUNE was"
+	line "keeping an eye"
+	cont "on you."
 
 	para "I'm going to keep"
 	line "searching for"

@@ -104,7 +104,7 @@ LeaderBlueWinText:
 
 	para "Tch, all right…"
 	line "Here, take this--"
-	cont "it's EARTHBADGE."
+	cont "the EARTHBADGE."
 	done
 
 Text_ReceivedEarthBadge:

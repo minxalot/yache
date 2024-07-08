@@ -88,6 +88,10 @@ DaisyOfferGroomingText:
 	para "Oh, your #MON"
 	line "are a bit dirty."
 
+	para "Grooming them"
+	line "helps them become"
+	cont "more friendly."
+
 	para "Would you like me"
 	line "to groom one?"
 	done

@@ -468,7 +468,7 @@ CherrygroveRivalText_YouLost:
 	done
 
 RivalCherrygroveLossText:
-	text "Humph. That was a"
+	text "Humph! That was a"
 	line "waste of time."
 	done
 

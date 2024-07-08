@@ -262,7 +262,7 @@ MistyWinLossText:
 	line "you are skilled…"
 
 	para "Here you go. It's"
-	line "CASCADEBADGE."
+	line "the CASCADEBADGE."
 	done
 
 ReceivedCascadeBadgeText:

@@ -122,10 +122,8 @@ CeladonCityGramps1Text:
 
 CeladonCityGramps2Text:
 	text "Nihihi! This GYM"
-	line "is great! Only"
-
-	para "girls are allowed"
-	line "here!"
+	line "is great! It's"
+	cont "full of women!"
 	done
 
 CeladonCityYoungster1Text:

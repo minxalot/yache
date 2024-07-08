@@ -186,7 +186,7 @@ MortyIntroText:
 	cont "revered."
 
 	para "It's said that a"
-	line "rainbow-colored"
+	line "rainbow-hued"
 
 	para "#MON will come"
 	line "down to appear"
@@ -204,14 +204,14 @@ MortyIntroText:
 	line "now see what"
 	cont "others cannot."
 
-	para "Just a bit more…"
+	para "I see a shadow…"
 
-	para "With a little"
-	line "more, I could see"
+	para "A shadow of the"
+	line "person who will"
+	cont "summon the #MON."
 
-	para "a future in which"
-	line "I meet the #MON"
-	cont "of rainbow colors."
+	para "I believe that"
+	line "person is me!"
 
 	para "You're going to"
 	line "help me reach that"
@@ -219,10 +219,15 @@ MortyIntroText:
 	done
 
 MortyWinLossText:
-	text "I'm not good"
-	line "enough yet…"
+	text "I don't think our"
+	line "potentials are so"
+	cont "different."
 
-	para "All right. This"
+	para "But you seem to"
+	line "have something"
+	cont "more than that…"
+
+	para "So be it. This"
 	line "BADGE is yours."
 	done
 
@@ -232,7 +237,7 @@ Text_ReceivedFogBadge:
 	done
 
 MortyText_FogBadgeSpeech:
-	text "By having FOG-"
+	text "By having the FOG-"
 	line "BADGE, #MON up"
 
 	para "to L50 will obey"

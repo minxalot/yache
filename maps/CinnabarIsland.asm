@@ -51,8 +51,8 @@ CinnabarIslandBlueText:
 	para "I was once the"
 	line "CHAMPION, although"
 
-	para "it was for only a"
-	line "short time…"
+	para "my reign was"
+	line "short-lived…"
 
 	para "That meddling RED"
 	line "did me in…"

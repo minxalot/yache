@@ -113,7 +113,7 @@ VioletGymStatue:
 FalknerIntroText:
 	text "I'm FALKNER, the"
 	line "VIOLET #MON GYM"
-	cont "leader!"
+	cont "LEADER!"
 
 	para "People say you can"
 	line "clip flying-type"
@@ -138,6 +138,9 @@ FalknerWinLossText:
 	line "cherished bird"
 	cont "#MON…"
 
+	para "But a defeat is a"
+	line "defeat."
+
 	para "All right."
 	line "Take this."
 
@@ -152,7 +155,7 @@ ReceivedZephyrBadgeText:
 	done
 
 FalknerZephyrBadgeText:
-	text "ZEPHYRBADGE"
+	text "The ZEPHYRBADGE"
 	line "raises the attack"
 	cont "power of #MON."
 
@@ -200,11 +203,17 @@ FalknerFightDoneText:
 	line "your skills at"
 	cont "these GYMS."
 
+	para "As for your next"
+	line "move…"
+
+	para "I would suggest"
+	line "AZALEA TOWN."
+
 	para "I'm going to train"
 	line "harder to become"
 
 	para "the greatest bird"
-	line "master!"
+	line "keeper of all!"
 	done
 
 BirdKeeperRodSeenText:
@@ -252,7 +261,7 @@ BirdKeeperAbeAfterBattleText:
 
 VioletGymGuideText:
 	text "Hey! I'm no train-"
-	line "er but I can give"
+	line "er, but I can give"
 	cont "some advice!"
 
 	para "Believe me!"

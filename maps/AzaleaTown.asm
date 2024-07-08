@@ -274,8 +274,8 @@ AzaleaTownRivalWinText:
 AzaleaTownRivalAfterText:
 	text "I hate the weak."
 
-	para "#MON, trainers."
-	line "It doesn't matter"
+	para "#MON, trainers,"
+	line "it doesn't matter"
 	cont "who or what."
 
 	para "I'm going to be"

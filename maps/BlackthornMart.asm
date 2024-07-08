@@ -22,9 +22,9 @@ BlackthornMartBlackBeltScript:
 
 BlackthornMartCooltrainerMText:
 	text "You can't buy MAX"
-	line "REVIVE, but it"
+	line "REVIVES, but they"
 
-	para "fully restores a"
+	para "fully restore a"
 	line "fainted #MON."
 
 	para "Beware--it won't"

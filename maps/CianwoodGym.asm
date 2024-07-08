@@ -190,7 +190,7 @@ ChuckLossText:
 
 	para "How about that!"
 	line "You're worthy of"
-	cont "STORMBADGE!"
+	cont "the STORMBADGE!"
 	done
 
 GetStormBadgeText:
