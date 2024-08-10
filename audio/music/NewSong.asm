@@ -555,7 +555,11 @@ Music_printer2_Ch3:
 	note E_, 1
 	note F#, 1
 	note B_, 2
-	note A_, 2
+	note_type 8, 1, 0
+	note A_, 1
+	note B_, 1
+	note A_, 1
+	note_type 12, 1, 0
 	note G#, 1
 	rest 1
 	note F#, 1
