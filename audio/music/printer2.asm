@@ -1,9 +1,8 @@
 Music_printer2:
-	channel_count 4
+	channel_count 3
 	channel 1, Music_printer2_Ch1
 	channel 2, Music_printer2_Ch2
 	channel 3, Music_printer2_Ch3
-	channel 4, Music_printer2_Ch4
 
 Music_printer2_Ch1:
 	tempo 256
@@ -204,9 +203,8 @@ Music_printer2_Ch1:
 	octave 1
 	note_type 12, 9, 8
 	note B_, 6
-	volume_envelope 9, 4
-	note B_, 1
-	rest 1
+	note_type 6, 9, 4
+	note B_, 4
 	note_type 12, 9, 8
 	note B_, 6
 	volume_envelope 9, 7
@@ -238,102 +236,44 @@ Music_printer2_Ch2:
 	rest 2
 	transpose 0, 0
 	vibrato 18, 0, 3
-	duty_cycle 3
-	note_type 12, 8, 7
+	note_type 12, 8, 3
+	duty_cycle 1
 	note E_, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note G#, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note E_, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note G#, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note E_, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note G#, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note E_, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
-	note G#, 2
-	note_type 1, 8, 7
-	rest 16
-	rest 8
-	note_type 12, 8, 7
+	rest 3
+	note G#, 1
+	rest 3
 	note F#, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note E_, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note F#, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note F#, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note E_, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note E_, 1
-	note_type 1, 8, 7
-	rest 16
-	rest 16
-	rest 4
-	note_type 12, 8, 7
+	rest 3
 	note F#, 1
-	note_type 1, 8, 7
-	rest 12
-	note_type 12, 8, 7
+	rest 1
 	note F#, 1
-	note_type 1, 8, 7
-	rest 12
-	note_type 12, 8, 4
-	note F#, 2
-	rest 2
-	volume_envelope 8, 7
+	rest 1
+	note_type 12, 6, 4
+	note F#, 3
+	rest 1
+	volume_envelope 8, 3
 	note E_, 1
 	rest 3
 	note E_, 1
@@ -348,20 +288,17 @@ Music_printer2_Ch2:
 	rest 3
 	note A_, 1
 	rest 3
-	note E_, 2
-	rest 2
-	note F#, 1
-	rest 3
-	note F#, 1
-	rest 3
-	note F#, 1
-	rest 1
-	note G#, 1
-	rest 1
-	note F#, 1
-	rest 3
 	note E_, 1
 	rest 3
+	note F#, 1
+	rest 3
+	note F#, 1
+	rest 3
+	note F#, 2
+	note G#, 2
+	note F#, 4
+	note E_, 4
+	volume_envelope 8, 2
 	note E_, 1
 	rest 1
 	note E_, 1
@@ -369,7 +306,6 @@ Music_printer2_Ch2:
 	note E_, 1
 	rest 4
 	vibrato 0, 0, 0
-	duty_cycle 1
 	volume_envelope 4, 2
 	note B_, 1
 	octave 4
@@ -607,23 +543,4 @@ Music_printer2_Ch3:
 	note F#, 1
 	note_type 12, 2, 0
 	rest 1
-	sound_loop 0, .mainLoop
-
-Music_printer2_Ch4:
-	toggle_noise 0
-	drum_speed 12
-	rest 16
-	rest 16
-.mainLoop:
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	drum_speed 12
 	sound_loop 0, .mainLoop
