@@ -7,20 +7,21 @@ Pokémon Crystal if Game Freak wasn't fucking around. Based on the pokecrystal d
 	- Adjusts some Pokémon sprites to make them more accurate to their Sugimori artwork from the time, while still keeping the classic Gen 2 look and feel
 	- Unique menu sprites for each Pokémon
 - A bunch of single-player bug fixes.
-- Improved trainer parties and movesets (e.g. Jasmine's Steelix no longer has Sunny Day).
+- Improved and revamped trainer parties and movesets. Particularly, boss trainers (Gym Leaders, Elite Four, Rival, etc.) have recieved fairly large changes, but I stuck to only giving them Pokémon they're shown to have in other official media (such as HGSS or the anime), so things shouldn't feel TOO out of place.
 - Proper level scaling.
 - Route 47, 48, and Cliff Cave.
 - Postgame Johto Pokémon are no longer locked behind the postgame. 
 - Pokémon exclusive to G/S (like the Mareep line) are available again and no longer trade-exclusive
-- Bug fixes and enhancements introduced in the VC version:
+- Bug fixes and enhancements introduced in the VC release:
 	- Safeguards against cross-regional trading
 	- GS Ball event
 - A few custom in-game events:
 	- The player can trigger an event by using the GS Ball from their Bag while in Route 22/Tohjo Falls.
 - Various quality-of-life improvements:
 	- Pokémon that evolve via trade can be evolved in Ecruteak City's Pokémon Center without the need for a second console and cartridge after the player unlocks the Time Capsule.
-- Retains parity and compatability with vanilla RBY and GSC, Game Boy Printer, Pocket Pikachu 2, Stadium 2, and Poké Transporter.
-	- Pokémon movepools and base stats haven't been altered
+	- The music that plays while using the Game Boy Printer has been adjusted to sound more like its Pokéwalker menu remix from HGSS.
+- Save files retain parity and compatability with vanilla RBY and GSC, Game Boy Printer, Pocket Pikachu 2, Stadium 2, and Poké Transporter.
+	- Pokémon movepools and base stats haven't been altered. In other words, Pokémon from this hack will pass legality checks if transferred to a real game.
 	- Multiplayer-related bugs and exploits (i.e. Johto Guard glitch) still exist
 	- Your mom
 

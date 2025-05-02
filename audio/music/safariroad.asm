@@ -83,6 +83,10 @@ Music_SafariRoad_Ch2:
 	note F_, 2
 	octave 3
 	note G_, 4
+	note A_, 4
+	octave 4
+	note C_, 4
+	note F_, 4
 	rest 16
 	rest 16
 	rest 16
@@ -94,8 +98,7 @@ Music_SafariRoad_Ch2:
 	rest 16
 	rest 16
 	rest 16
-	rest 16
-	rest 10
+	rest 14
 	sound_loop 0, .mainLoop
 
 Music_SafariRoad_Ch3:
