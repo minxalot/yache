@@ -118,7 +118,7 @@ TradebackGuyText::
 	text "Hello, hello! I'm"
 	line "MR.TRADEBACK."
 
-	para "I'm not a trainer"
+	para "I'm no trainer"
 	line "myself, but I"
 
 	para "love meeting all"
